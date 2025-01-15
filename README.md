@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to data and the science around it
 - 🌱 I’m currently learning Data and ML Engineering
 - 📫 How to reach me:
-- my telegram: blueberr11
+- my telegram: kaliutchyk
 - my gmail: kaliutchykanastasiya@gmail.com
 
 <!---
